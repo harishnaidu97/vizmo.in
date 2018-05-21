@@ -1,0 +1,110 @@
+#navbar{
+    width: 1000px;height: 80px;text-align: right;
+    margin-left: 200px;
+}
+#navbar>li{
+    width: 120px;list-style: none;float: right;
+    }
+    li>a{
+        display: block;color: white;line-height: 80px;
+        text-align: center;font-size: 13px;text-decoration:none;color: black;float:right;
+    }
+    #header{
+        width: 100%;height:80px;background:rgba(51, 51, 51, 0.493);box-shadow: 0px 2px 4px gray;
+    }
+    button{
+        background-color:white;
+        padding:8px 22px;
+        margin:20px 0;
+        border: 1px solid #29AB87 ;
+        border-style: none;
+        cursor: pointer;
+        width:40px 40px;
+        text-decoration-color: #29AB87;
+    }
+    .button2 {
+        background-color: white; 
+        border: 1px solid #29AB87 ;
+        border-radius: 2px;
+        font-size: 13px;
+    }
+    .head
+    {        margin-left: 110px !important;
+        margin-top: 0px;
+    }
+    .boddy{
+        background-image: url(home.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 100vw;
+        height: 100vh;
+        padding: 1px 0 0 0;
+        margin: 0px;
+    }
+.tex{
+    margin-left: 150px;
+    margin-top: 230px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    ;
+}
+.tex1{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.btn1{
+    margin-left: 150px;
+    margin-top: 0px;   
+}
+.btn2{
+    margin-left:290px;
+    margin-top: -77px;
+}
+.tex3{
+    margin-left: 150px;
+    margin-top: -20px;
+}
+.section-header{
+    margin-left: 230px;
+    margin-top: 100px;
+}
+.lead
+{
+    margin-top: 50px;
+}
+.spc{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.img-spc{
+  margin-left: 305px;
+}
+.section {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+.fs-25{
+    font-size: 25px !important;
+}
+.pt-4{
+    padding-top: 4px !important;
+}
+.tex4{
+    color:gray;
+}
+.flexbox{ 
+       display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.gap-y{
+    margin-top: -15px;
+    margin-bottom: -15px;
+}
+.fs-70{
+    font-size: 70px;
+    line-height: 1.2; 
+}
+
+
